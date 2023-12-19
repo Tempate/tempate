@@ -1,7 +1,5 @@
 ### Hi there, I'm Daniel Díaz Quílez 
 
-[![Github](https://img.shields.io/github/followers/irenebm?label=Follow&style=social)](https://github.com/irenebm)
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tempate&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tempate's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tempate&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
